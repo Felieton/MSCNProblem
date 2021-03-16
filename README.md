@@ -7,4 +7,4 @@ MSCN (Multi-Echelon Supply Chain Network) is a problem in administrating compani
 # Solution
 The main objective of the solution is to maximize profit and minimize the cost of the whole process. Because classical optimization algorithms come short in the given scenario, the Differential Evolution algorithm was used here. Its results are compared with also implementsd - random search. Both problems and solutions are stored in .txt files. 
 
-*The project was created between December 2019 and January 2020.* 
+*The project was created between December 2019 and January 2020.*
